@@ -58,6 +58,10 @@ footer {
   text-align: center;
 }
 
-.btn, .submit-color {
-  background-color: #17a2b8;
+.card {
+  border-radius: 0;
 }
+
+/* .btn, .submit-color {
+  background-color: #17a2b8;
+} */
